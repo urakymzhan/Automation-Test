@@ -1,0 +1,30 @@
+browser=chrome
+
+url=http://www.weatherbase.com/
+
+title = Travel Weather Averages (Weatherbase)
+NorthAmericaTitle = North America Travel Weather Averages (Weatherbase)
+NorthAmericaUrl = http://www.weatherbase.com/weather/country.php3?r=NOR&regionname=North-America
+
+UnitedStatesTitle =United States of America Travel Weather Averages (Weatherbase)
+UnitedStatesUrl = http://www.weatherbase.com/weather/state.php3?c=US&name=United-States-of-America
+
+ColombiaTitle = District of Columbia, United States of America Travel Weather Averages (Weatherbase)
+ColombiaUrl = http://www.weatherbase.com/weather/city.php3?c=US&s=DC&statename=District-of-Columbia-United-States-of-America
+ 
+WashingtonUrl = http://www.weatherbase.com/weather/weather.php3?s=50427&cityname=Washington-District-of-Columbia-United-States-of-America
+WashingtonTitle = Washington, District of Columbia Travel Weather Averages (Weatherbase)
+
+firstName=John
+
+lastName=Doe
+
+email=jd@gmail.com
+
+password=jd2018
+
+location=/Users/ulizack/Documents/selenium dependencies/drivers/chromedriver
+
+chrome=webdriver.chrome.driver
+
+ffPath = /Users/myroslavasydoruk/Documents/selenium dependencies/drivers/geckodriver
